@@ -51,7 +51,7 @@ class ShoppingList{
                 this.list.splice(i,1)
                 console.log("Your item was removed")
             }
-            console.log("Your item doesn't exsist")
+            console.log("Your item doesn't exist")
         }
 
     }
